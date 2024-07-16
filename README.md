@@ -29,7 +29,7 @@ e decrescendo a cada segundo, os leds são acionados um a um a cada 10 segundos 
 
 # Recursos
 
-  Código fonte em main.cpp
+  Código fonte em main.c
 
 
 ## 📫 Contribuindo para Controlador Led
